@@ -19,7 +19,7 @@
             }
             base.Dispose(disposing);
         }
-
+        //1111111111111111111111111
         #region Windows Form 設計工具產生的程式碼
 
         /// <summary>
